@@ -12,7 +12,9 @@
   "devDependencies": {
     "nodemon": "^1.19.2"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@ajar/marker": "^1.2.3"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/morangur/my-git-demo.git"
